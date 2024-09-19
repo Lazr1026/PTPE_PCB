@@ -10,7 +10,7 @@ PCB for the Pico ToyPad Emulator
 - [These tactile switches](https://www.amazon.com/1825910-6-Switch-Tactile-SPST-NO-0-05A/dp/B0CGYQHS7K) (the buttons). You can find cheaper probably on AliExpress, just search for "1825910-6". Make sure you get 5!
 
 ## Ordering Instructions
-- Download and upload the `.zip` from the gerbers folder on this repo and upload it to JLCPCB / PCBWAY / OSHPark / etc.
+- Download and upload the `.zip` from the releases to JLCPCB / PCBWAY / OSHPark / etc.
 - PCB does not need any specific option set, recommended to leave at defaults. You can do ENIG if you want, but that will jump the price way up.
 
 ## Assembly instructions
